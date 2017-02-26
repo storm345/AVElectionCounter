@@ -1,0 +1,24 @@
+Loaded 6 ballots!
+========================
+Ballot 1:
+Choices: Gwilym, James, Ed, Dom, Alex, Richard, Laurence
+========================
+Ballot 2:
+Choices: James, Gwilym, Dom, Ed, Laurence, Richard, Alex
+========================
+Ballot 3:
+Choices: Dom, Ed, Gwilym, Alex, James, Laurence, Richard
+========================
+Ballot 4:
+Choices: Ed, Dom, Laurence, Gwilym, Richard, James, Alex
+========================
+Ballot 5:
+Choices: Richard, Richard, Richard, Richard, Richard, Richard, Richard
+========================
+Ballot 6:
+Choices: Laurence, Dom, Ed, Alex, James, Gwilym, Richard
+========================
+Calculating AV election result, if there is a tie between least popular candidates will calculate result of both cases:
+132 results calculated becuase of different possible round-tie-breakings!
+Dom won 54.55% of the results
+Ed won 45.45% of the results
